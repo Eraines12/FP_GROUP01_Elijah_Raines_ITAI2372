@@ -13,3 +13,9 @@ Proposal folder: explains the idea and problem
 Design folder: shows how the system would work
 Testing folder: explains how the system would be tested
 Presentation folder: contains final slides
+
+Links for the Sections of the Project
+
+- [Project Proposal](./Proposal/project_proposal.md)  
+- [System Design](./Design/system_design.md)  
+- [Testing Plan](./Testing/testing_plan.md)  
