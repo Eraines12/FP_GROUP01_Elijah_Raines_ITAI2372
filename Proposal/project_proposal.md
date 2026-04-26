@@ -1,1 +1,1 @@
-
+- [Project Proposal](./Proposal/project_proposal.md) – provides a detailed explanation of the problem related to monitoring spacecraft systems and why early detection of failures is important. It also introduces the proposed AI-based solution, explains how anomaly detection would be used, and outlines the expected impact of the system in improving safety and reducing risks.
