@@ -18,5 +18,6 @@ Links for the Sections of the Project
 
 - [Project Proposal](./Proposal/project_proposal.md)  
 - [System Design](./Design/system_design.md)  
-- [Testing Plan](./Testing/testing_plan.md)  
+- [Testing Plan](./Testing/testing_plan.md)
+- - [Presentation Slides (PDF)](./Presentation/Final_AI_Spacecraft_Presentation_ER.pdf) – final presentation for the project
 
